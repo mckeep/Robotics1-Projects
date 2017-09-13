@@ -1,16 +1,16 @@
-Team #
+Team # 10
 
 
-Team Member: 
+Team Members: Paul McKee, Patrick Mitchell, Jamie Smith
 
 
-Email:
+Email: mckeep@rpi.edu, mitchp@rpi.edu, smithj24@rpi.edu (respectively)
 
 
-Project: 
+Project: (name pending)
 
 
-Description:
+Description: (description pending)
 
 
 
